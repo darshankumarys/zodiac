@@ -1,16 +1,16 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=northeurope
-export SIRMIONE_ALIAS=zaxsirmione
-export LIMONE_ALIAS=zaxlimone
-export SCORPIO_ALIAS=zaxscorpio
-export VIRGO_ALIAS=zaxvirgo
-export LIBRA_ALIAS=zaxlibra
-export ZODIAC_ALIAS=zaxzodiac
-export DB_ADMIN_USER=nick
-export AAD_DOMAIN=xekina.onmicrosoft.com
-export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
-export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
+export SIRMIONE_ALIAS=dksirmione
+export LIMONE_ALIAS=dklimone
+export SCORPIO_ALIAS=dkscorpio
+export VIRGO_ALIAS=dkvirgo
+export LIBRA_ALIAS=dklibra
+export ZODIAC_ALIAS=dkzodiac
+export DB_ADMIN_USER=dk0007
+export AAD_DOMAIN=darshan.onmicrosoft.com
+export AAD_TENANTID=1d876752-f2aa-4c85-80d6-57a38fa054b9
+export AAD_CLIENTID=5a07c78e-fdb5-4774-b9d1-58adff6ac580
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
