@@ -32,3 +32,5 @@ jobs:
                 chmod +x deployment_scripts/deploy_libra.sh
                 chmod +x deployment_scripts/deploy_zodiac.sh
                 deployment_scripts/deploy_infrastructure.sh
+                
+                
